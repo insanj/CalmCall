@@ -9,7 +9,7 @@
 - (id)initWithFrame:(CGRect)arg1 style:(id)arg2 backgroundColor:(id)arg3 {
     const CGFloat *components = CGColorGetComponents([arg3 CGColor]);
     if(components && components[1] > 0.9) {
-        NSLog(@"[CalmCall] Detected in-call bar (with color %@), de-neonifing...", arg3);
+        NSLog(@"[CalmCall] Detected in-call bar (with color %@), de-neonifying...", arg3);
         return %orig(arg1, arg2, [UIColor colorWithRed:46/255.0 green:204/255.0 blue:64/255.0 alpha:1.0]);
     }
 
