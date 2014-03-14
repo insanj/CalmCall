@@ -2,7 +2,7 @@ Package: com.insanj.calmcall
 Name: CalmCall
 Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Calm down that neon green in-call bar.
 Maintainer: Julian Weiss <insanjmail@insanj.com>

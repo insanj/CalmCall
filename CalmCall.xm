@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 #import <CoreGraphics/CoreGraphics.h>
 
-#define CC_LENIENCY 0.5
+#define CC_LENIENCY 0.1
 
 // Used to compare the expectant StatusBar color with our favorite neon green color
 // (should prevent coloration of bars that /aren't/ the in-call, e.g. iOS 6 apps)
