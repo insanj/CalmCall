@@ -3,7 +3,7 @@ CalmCall
 
 Calm down that neon green in-call bar.
 
-![Darkened in-call bar on homescreen](https://f.cloud.github.com/assets/951011/2414292/a1f3e958-aae8-11e3-9685-efcaaa3c7677.PNG)
+![iOS 7.1 Coloring Bar](screenie.jpg)
 
 ---------------------------------------
 	Simplified BSD License
